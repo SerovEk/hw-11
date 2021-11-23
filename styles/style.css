@@ -1,0 +1,28 @@
+#wrap {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: monospace;
+}
+#form {
+    background: rgb(163, 161, 161);
+    padding: 20px;
+    border-radius: 20px;
+}
+#btn {
+    font-family: monospace;
+    font-weight: bold;
+    padding: 8px;
+    border-radius: 8px;
+    
+}
+#emailInp , #passwordInp {
+    border-radius: 8px;
+    padding: 8px;
+}
+.alert {
+    background-color: rgb(129, 204, 139);
+    color: rgb(30, 70, 32);
+    padding: 40px;
+    border-radius: 20px;
+}
